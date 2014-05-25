@@ -1,4 +1,4 @@
-outlook,temperature,wind,humidity,answer
+outlook,temperature,humidity,wind,answer
 sunny,hot,high,weak,no
 sunny,hot,high,strong,no
 overcast,hot,high,weak,yes
